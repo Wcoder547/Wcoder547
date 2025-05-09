@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Wcoder547/Wcoder547/blob/main/assets/banner.png" alt="Waseem Akram - Full Stack Developer" />
+  <img src="https://github.com/Wcoder547/Wcoder547/blob/main/banner.png" alt="Waseem Akram - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi, I'm Waseem Akram</h1>
