@@ -4,9 +4,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Waseem Akram</h1>
-<h3 align="center">Full-Stack Developer | MERN & Laravel | DevOps Enthusiast</h3>
+<h3 align="center"> 👨‍💻 Software Engineer | 🌐 Full-Stack Developer (React, Next.js, Shadcn UI, Tailwind) |⚡ Node.js, NestJS, Laravel, Express | 📊 MongoDB, PostgreSQL, Redis | 🤖 Generative AI | 🎓 Mentor & Bootcamp Instructor |🧠DevOps
 
-<p align="center"><i>I build everything from static websites to scalable, dynamic, and secure web platforms.</i></p>
+</h3>
+
+<p align="center"><i>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗠𝗘𝗥𝗡 & 𝗧𝟯 𝗦𝘁𝗮𝗰𝗸) — passionate about building high-performance, scalable applications that make an impact.</i></p>
 
 ---
 
