@@ -1,85 +1,109 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/Wcoder547/Wcoder547/blob/main/banner.png" alt="Waseem Akram - Full Stack Developer" />
-</p>
-
-<h1 align="center">Hi, I'm Waseem Akram</h1>
-<h3 align="center"> 👨‍💻 Software Engineer | 🌐 Full-Stack Developer (React, Next.js, Shadcn UI, Tailwind) |⚡ Node.js, NestJS, Laravel, Express | 📊 MongoDB, PostgreSQL, Redis | 🤖 Generative AI | 🎓 Mentor & Bootcamp Instructor |🧠DevOps
-
-</h3>
-
-<p align="center"><i>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 specializing in 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 (𝗠𝗘𝗥𝗡 & 𝗧𝟯 𝗦𝘁𝗮𝗰𝗸) — passionate about building high-performance, scalable applications that make an impact.</i></p>
+Got it 👍 You want to polish and update your GitHub README so it reflects your **current focus and activities** (not blogging, but coding projects, DSA, system design, Logic-looper, etc.).
+Here’s a **refined version of your profile README** with your updates included:
 
 ---
 
-### 🔥 About Me
+## Hey, [Waseem here!](https://github.com/Wcoder547) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-I'm a **Full-Stack Web Developer** specializing in **MERN Stack** and **Laravel**, passionate about building high-performance, scalable applications. I bring modern UI/UX and robust backend architectures to life.
+<h1>Welcome to my corner of the Digital World 🌍</h1>
 
-Currently diving deep into:
-- **DevOps** (CI/CD, Docker, GitHub Actions)
-- **NestJS with GraphQL**
-- **Next.js**
-- **System Design, Testing & Security Compliance**
+[![Linkedin Badge](https://img.shields.io/badge/-WaseemAkram-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/wasim-akram-dev/)](https://www.linkedin.com/in/wasim-akram-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-waseemakram547@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:waseemakram547@gmail.com)](mailto:waseemakram547@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square\&logo=react\&logoColor=white\&link=https://waseemmalikportfolio.netlify.app)](https://waseemmalikportfolio.netlify.app)
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemakram547" alt="waseemakram547" /> </p>
 
-### 🚀 Highlight Project
-
-**[E-Commerce SaaS Platform (MERN + TypeScript)](https://github.com/Wcoder547/ECOMMERCE-PROJECT)**  
-Built using:
-- MERN + TypeScript
-- Stripe Payments Integration
-- OAuth (Google) Authentication
-- Admin Dashboard with Role-based Access
-- Redis for caching
-- Dockerized for deployment
-- AWS Cloud Infrastructure
+<div align="right">"Code is like humor. When you have to explain it, it’s bad." 😉</div>
 
 ---
 
-### ⚙️ Tech Stack
+## 💻 Technologies I Love
 
-**Languages & Frameworks:**  
-`JavaScript` `TypeScript` `PHP` `React` `Node.js` `Express` `Laravel` `NestJS` `GraphQL` `Next.js`
+* Full-Stack Web Development (MERN / Next.js)
+* Generative AI Integrations
+* DevOps & Cloud Automation
+* Open Source Collaboration
 
-**DevOps & Tools:**  
-`Docker` `GitHub Actions` `Nginx` `AWS` `Linux` `CI/CD` `Redis`
-
-**Database & Auth:**  
-`MongoDB` `MySQL` `JWT` `OAuth` `Stripe` `REST API`
-
-**UI/UX & Styling:**  
-`Tailwind CSS` `HTML5` `CSS3` `Redux Toolkit`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemakram547&layout=compact" />
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Programming Languages & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wcoder547&show_icons=true&theme=radical" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=wcoder547&theme=radical" width="47%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcoder547&layout=compact&theme=radical" width="47%" />
-</p>
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="33"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/mongodb.svg" width="40"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="30"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/docker.svg" width="35"/> <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/aws.svg" width="40"/>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 Who am I?
 
-- **Portfolio**: [waseemmalikportfolio.netlify.app](https://waseemmalikportfolio.netlify.app)
-- **LinkedIn**: [wasim-akram-dev](https://www.linkedin.com/in/wasim-akram-dev)
-- **Email**: malikwaseemshzad@gmail.com
+```javascript
+class WhoAmI {
+  constructor() {
+    this.name = "Waseem Akram";
+    this.role = [
+      "💻 Software Engineer",
+      "🌐 Full-Stack Developer (MERN/Next.js)",
+      "🤖 Generative AI Explorer",
+      "⚙️ DevOps Engineer"
+    ];
+    this.currentFocus = "🚀 DSA, System Design & Building Scalable Applications";
+    this.hobbies = [
+      "🛠 Creating side projects",
+      "📚 Learning & exploring new technologies",
+      "🌍 Contributing to Open Source",
+      "🎯 Continuous problem-solving"
+    ];
+  }
+
+  getLocation() {
+    return "📍 Sargodha, Pakistan";
+  }
+
+  futureGoals() {
+    return [
+      "🤝 Contribute to impactful Open Source projects",
+      "🏗 Master System Design & Advanced DSA",
+      "🌎 Become a top Remote Full-Stack Engineer",
+      "🧑‍🏫 Share knowledge through tech content & mentoring"
+    ];
+  }
+
+  introduce() {
+    return `Hi, I'm ${this.name}, a passionate ${this.role[1]} from ${this.getLocation()}. 
+My current focus is on ${this.currentFocus}. 🚀`;
+  }
+}
+
+const me = new WhoAmI();
+console.log(me.introduce());
+
+```
 
 ---
 
-### 🧠 Fun Fact
+## 🔭 Current Works
 
-> I’m obsessed with building modular, scalable systems and love automating things with DevOps tools.
+* Building a **full-featured MERN eCommerce platform** (caching, payments, advanced APIs)
+* Working on my **portfolio with React**
+* Solving **DSA problems & mastering system design**
+* Developing side projects like **Logic-looper**
+* Exploring **Next.js & Generative AI applications**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wcoder547&style=flat-square&color=blue" alt="wcoder547" />
-</p>
+## 📄 Other Stuff
+
+* \:octocat: [My Resume](https://drive.google.com/) *(update with real link)*
+* 💬 Ask me about **MERN, DevOps, AI integrations, Linux, or System Design**
+* ⚡ Fun fact: I sometimes break code just to rebuild it cleaner!
+
+![Waseem's github stats](https://github-readme-stats.vercel.app/api?username=waseemakram547\&show_icons=true\&hide=\["issues"])
+
+---
+
+👉 Contacts:  
+📧 **[waseemakram547@gmail.com](mailto:waseemakram547@gmail.com)**  
+🌐 [Portfolio](https://waseemmalikportfolio.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/wasim-akram-dev/)  
+
+
