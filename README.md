@@ -1,8 +1,3 @@
-Got it 👍 You want to polish and update your GitHub README so it reflects your **current focus and activities** (not blogging, but coding projects, DSA, system design, Logic-looper, etc.).
-Here’s a **refined version of your profile README** with your updates included:
-
----
-
 ## Hey, [Waseem here!](https://github.com/Wcoder547) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my corner of the Digital World 🌍</h1>
