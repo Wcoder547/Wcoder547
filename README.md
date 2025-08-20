@@ -3,7 +3,7 @@
 <h1>Welcome to my corner of the Digital World 🌍</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-WaseemAkram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wasim-akram-dev/)](https://www.linkedin.com/in/wasim-akram-dev/)  
-[![Gmail Badge](https://img.shields.io/badge/-waseemakram547@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waseemakram547@gmail.com)](mailto:waseemakram547@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-malikwaseemshzad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malikwaseemshzad@gmail.com)](mailto:malikwaseemshzad@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://waseemmalikportfolio.netlify.app)](https://waseemmalikportfolio.netlify.app)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wcoder547" alt="Wcoder547" /> </p>
@@ -121,8 +121,8 @@ console.log(me.introduce());
 ---
 
 ## 👉 Contacts
+[![Gmail Badge](https://img.shields.io/badge/-malikwaseemshzad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malikwaseemshzad@gmail.com)](mailto:malikwaseemshzad@gmail.com)
 
-📧 **[waseemakram547@gmail.com](mailto:waseemakram547@gmail.com)**
 🌐 [Portfolio](https://waseemmalikportfolio.netlify.app)
 🔗 [LinkedIn](https://www.linkedin.com/in/wasim-akram-dev/)
 
