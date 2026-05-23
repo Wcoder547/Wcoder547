@@ -11,18 +11,9 @@
 
 ## Waseem Akram — Full-Stack Developer
 
-I build production-grade web applications. Three years of experience across the full stack — Next.js, MERN, TypeScript — from architecting auth systems and REST APIs to integrating ML pipelines and shipping on AWS with Docker CI/CD.
+I build production-grade web applications. Three years of hands-on experience across the full stack — from designing REST APIs and real-time systems to integrating ML pipelines and shipping on cloud infrastructure.
 
-Final year of BS Information Technology at University of Sargodha, Pakistan. Open to **remote full-time, part-time, or freelance** roles.
-
-```ts
-const waseem = {
-  location : "Sargodha, Pakistan",
-  stack    : ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL", "MongoDB"],
-  openTo   : "Remote full-time · Freelance · Contract",
-  contact  : "malikwaseemshzad@gmail.com",
-};
-```
+Based in Sargodha, Pakistan. Available for **remote full-time, part-time, or freelance** work.
 
 ---
 
@@ -66,7 +57,7 @@ Built on Next.js App Router with MongoDB/Mongoose, NextAuth (Google OAuth), and 
 
 ### [MstryMessage](https://github.com/Wcoder547/Mstrymessage) — Anonymous Feedback Platform
 
-Sign up, get a unique shareable link, receive anonymous messages — no account required for senders. An AI endpoint (`/api/suggest-messages`) generates contextual icebreakers so senders are never staring at a blank box. Edge middleware cleanly separates public anonymous routes from the protected dashboard.
+Sign up, get a unique shareable link, receive anonymous messages — no account required for senders. An AI endpoint generates contextual icebreakers so senders are never staring at a blank box. Edge middleware cleanly separates public anonymous routes from the protected dashboard.
 
 `Next.js` `TypeScript` `MongoDB` `NextAuth` `Resend` `Vercel`
 
@@ -111,10 +102,7 @@ Sign up, get a unique shareable link, receive anonymous messages — no account 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wcoder547&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/Let's%20work%20together-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
+[![Email](https://img.shields.io/badge/malikwaseemshzad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
 
 </div>
-
----
-
-I'm actively looking for remote full-time, part-time, or freelance opportunities. If you're building something with Next.js, MERN, or need a developer who can own a feature end-to-end — [let's talk](mailto:malikwaseemshzad@gmail.com).
