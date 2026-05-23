@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=header&text=Waseem%20Akram&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%2F%20MERN%20%2F%20TypeScript&descColor=94a3b8&descSize=16&descAlignY=85" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waseem-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wasim--akram--dev-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-waseemmalik.dev-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://waseemmalikportfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-malikwaseemshzad%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-22c55e?style=flat-square&logo=googledrive&logoColor=white)](YOUR_ACTUAL_RESUME_LINK_HERE)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Wcoder547&style=flat-square&color=0ea5e9&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/Wcoder547?style=flat-square&color=0ea5e9&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Wcoder547&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Wcoder547?label=Followers&style=social)
 
 </div>
 
@@ -22,149 +14,124 @@
 
 ## About me
 
-I'm a **Full-Stack Developer** from Sargodha, Pakistan with 3+ years of experience building production-grade web applications. I specialize in **Next.js**, the **MERN stack**, and **TypeScript** — from architecting multi-role auth systems to integrating AI pipelines and deploying on cloud infrastructure.
+I'm a **Full-Stack Developer** from Sargodha, Pakistan with 3+ years building production-grade web and mobile applications. I specialize in **Next.js**, **MERN**, and **TypeScript** — from architecting JWT auth systems and REST APIs to integrating ML pipelines and shipping on AWS with Docker CI/CD.
 
-I'm currently in my final year of BS Information Technology at the University of Sargodha, and actively looking for **remote full-time or freelance roles**.
+Final year of BS Information Technology at University of Sargodha. Actively looking for **remote full-time or freelance roles**.
 
 ```ts
 const waseem = {
-  location:     "Sargodha, Pakistan 🇵🇰",
-  role:         "Full-Stack Developer",
-  stack:        ["Next.js", "React", "TypeScript", "Node.js", "MongoDB", "PostgreSQL"],
-  currentWork:  "pakabroad — study abroad platform for Pakistani students",
-  openTo:       "Remote full-time · Freelance · Contract",
-  contact:      "malikwaseemshzad@gmail.com",
+  location:    "Sargodha, Pakistan 🇵🇰",
+  role:        "Full-Stack Developer",
+  stack:       ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL", "MongoDB"],
+  currentWork: ["SafePay — digital wallet on AWS", "pakabroad — study abroad platform"],
+  alsoInto:    ["LangGraph / Agentic AI", "Docker + Kubernetes", "Android (Kotlin)"],
+  openTo:      "Remote full-time · Freelance · Contract",
+  contact:     "malikwaseemshzad@gmail.com",
 };
 ```
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
+
+### [SafePay](https://github.com/Wcoder547/safepay) — Digital Wallet with ML Fraud Detection
+A production-grade P2P payment platform — send and receive money with a fraud detection layer that blocks suspicious transactions in real time.
+
+- **ML fraud detection** — custom-trained Random Forest model served via FastAPI; transactions with fraud score ≥ 70% are blocked automatically
+- **Full-stack** — React frontend, Node.js/Express REST API, PostgreSQL + Prisma ORM
+- **Production infra** — Dockerized, deployed on AWS, CI/CD pipeline
+- **Stack:** `React` `Node.js` `PostgreSQL` `Prisma` `FastAPI` `scikit-learn` `Docker` `AWS`
+
+---
+
+### [MediLens](https://github.com/Wcoder547/MediLens) — AI Medication Manager (Android) · Final Year Project
+Android app that identifies pills via camera, scans prescriptions with OCR, and manages daily medication schedules — built for Pakistan's healthcare context.
+
+- **YOLOv11 on-device** — custom-trained TFLite model, 99% mAP, <200ms inference, works offline
+- **Prescription OCR** — Donut (Hugging Face) + Gemini NER extracts drug name, dosage, frequency from photos
+- **4 medication classes** — Panadol, Ventolin, Myteka, Risek; dataset collected locally and managed via Roboflow
+- **Stack:** `Kotlin` `YOLOv11` `TensorFlow Lite` `Firebase` `Roboflow` `Hugging Face` `Gemini`
+
+---
 
 ### [pakabroad](https://github.com/Wcoder547/pakabroad) — Study Abroad Platform
-> A full-featured platform helping Pakistani students discover and apply to international universities.
+Full-featured platform helping Pakistani students discover and apply to international universities.
 
-- Custom **JWT authentication** (access/refresh tokens, httpOnly cookies) with **Google OAuth**
-- **Role-based access control** (student, admin, university) with protected routes
-- Built on **Next.js 16**, **Prisma 7**, **Supabase (PostgreSQL)**, and **Tailwind CSS**
-- Edge-safe auth utilities split between middleware proxy and Node.js runtime
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_7-2d3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+- **Custom JWT auth** — access/refresh tokens, httpOnly cookies, Google OAuth, role-based access (student, admin, university)
+- **Edge-safe architecture** — auth utilities split between Next.js proxy middleware and Node.js runtime
+- **Stack:** `Next.js 16` `TypeScript` `Prisma 7` `Supabase (PostgreSQL)` `Tailwind CSS`
 
 ---
 
-### [E-Commerce Platform](https://github.com/Wcoder547/ECOMMERCE-PROJECT) — Full-Stack Store
-> Production-ready e-commerce platform with advanced caching, payment integration, and admin dashboard.
+### [MstryMessage](https://github.com/Wcoder547/Mstrymessage) — Anonymous Feedback Platform
+Share your unique link, receive anonymous messages — with AI-suggested icebreakers so senders are never stuck staring at a blank box.
 
-- Full **MERN stack** with **TypeScript** end-to-end
-- REST API with **Redis caching**, order management, and inventory control
-- Secure checkout with payment gateway integration
-- Admin panel with analytics, product management, and order tracking
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+- **AI suggestions** — `/api/suggest-messages` calls an LLM to generate contextual message prompts
+- **Edge middleware** — `proxy.ts` separates public anonymous routes from protected dashboard routes
+- **Stack:** `Next.js` `TypeScript` `MongoDB` `NextAuth` `Resend` `Vercel`
 
 ---
 
-### [MediLens](https://github.com/Wcoder547/medilens) — AI Medication Manager (Android)
-> AI-powered Android app that identifies medications via camera and manages daily schedules.
-
-- **Roboflow AI** model (99.5% mAP) for real-time pill detection via device camera
-- **Firebase** for authentication (Google Sign-In), Firestore for schedule storage
-- "Done today" logic with SharedPreferences and date-keyed tracking
-- Built in **Kotlin** (Views architecture) as a Final Year Project
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow_AI-7b2ff7?style=flat-square&logo=roboflow&logoColor=white)
-
----
-
-## 🛠 Tech stack
+## 🛠 Tech Stack
 
 **Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055ff?style=flat-square&logo=framer&logoColor=white)
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui`
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+`Node.js` `Express` `NestJS` `FastAPI` `REST API` `Socket.io`
 
 **Databases & ORM**
+`MongoDB` `PostgreSQL` `Prisma` `Supabase` `Redis` `Firebase Firestore`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+**AI / ML**
+`LangGraph` `LangChain` `RAG` `YOLOv11` `scikit-learn` `Hugging Face` `Gemini`
 
-**DevOps & Tools**
+**DevOps & Cloud**
+`Docker` `AWS` `CI/CD` `Linux` `Vercel` `Kubernetes` `Terraform` `Ansible` `Jenkins`
 
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Mobile**
+`Kotlin` `Android` `TensorFlow Lite` `CameraX`
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Wcoder547&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&hide=issues" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wcoder547&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wcoder547&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wcoder547&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 💼 Work & education
+## 💼 Work & Education
 
 | Period | Role | Organisation |
-|--------|------|--------------|
+|--------|------|-------------|
 | 2024 | Full-Stack Intern | Kivro Solutions |
 | 2023 | Full-Stack Intern | DevelopersHub Corporation |
 | 2023 | Laravel Intern | Ultimabyte Software House |
-| 2022–2026 | BS Information Technology | University of Sargodha |
-| 2022–present | Freelance Developer | Fiverr |
+| 2022 – present | Freelance Developer | Fiverr |
+| 2022 – 2026 | BS Information Technology | University of Sargodha |
+
+---
+
+## 📂 Also Worth Exploring
+
+| Repo | What It Is |
+|------|-----------|
+| [devops-zero-to-hero](https://github.com/Wcoder547/devops-zero-to-hero) | Complete DevOps learning path — Linux, Docker, K8s, Ansible, Terraform, Jenkins |
+| [Agentic-Ai](https://github.com/Wcoder547/Agentic-Ai) | 17 LangGraph notebooks — sequential/parallel/conditional workflows → RAG → human-in-the-loop |
+| [NestJS](https://github.com/Wcoder547/NestJS) | Architecture, DI, modules, pipes, validation, exception filters |
+| [socialhub.support](https://github.com/Wcoder547/socialhub.support) | SaaS platform — earn coins by completing social media tasks, admin dashboard, LMS |
+| [Generative-AI](https://github.com/Wcoder547/Generative-AI) | 13 LangChain modules from basic LLM calls to full RAG pipelines |
+| [DSA-JavaScript](https://github.com/Wcoder547/DSA-JavaScript) | Pure JS implementations — linked lists, trees (BST/AVL/B+), BFS/DFS, sorting |
 
 ---
 
 ## 📫 Let's work together
 
-I'm actively looking for **remote full-time, part-time, or freelance** opportunities. If you're building something interesting with Next.js, a MERN stack, or need a developer who can own a feature end-to-end — let's talk.
+I'm actively looking for remote full-time, part-time, or freelance opportunities. If you're building something with Next.js, MERN, or need a developer who can own a feature end-to-end — let's talk.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Message_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
-[![Email](https://img.shields.io/badge/Send_an_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://waseemmalikportfolio.netlify.app)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=80&section=footer" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/wasim-akram-dev/)
+[![Email](https://img.shields.io/badge/Email-malikwaseemshzad@gmail.com-EA4335?style=flat&logo=gmail)](mailto:malikwaseemshzad@gmail.com)
