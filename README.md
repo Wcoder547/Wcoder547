@@ -1,65 +1,64 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://waseem-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://www.waseemmalikdev.eu.cc/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](#)
 
 </div>
 
 ---
 
-## Waseem Akram — Full-Stack Developer
+## Waseem Akram — Full-Stack AI Engineer
 
-I build production-grade web applications. Three years of hands-on experience across the full stack — from designing REST APIs and real-time systems to integrating ML pipelines and shipping on cloud infrastructure.
+I build production web products and the AI systems inside them — RAG, tool-using agents, and ML services — not just chat UIs.
 
-Based in Sargodha, Pakistan. Available for **remote full-time, part-time, or freelance** work.
+Currently **Full-Stack Engineer at Nexton IT**. Previously internships + freelance. Based in Sargodha, Pakistan.
+
+**What I ship:** Next.js / React UIs · Node/Express APIs · FastAPI AI services · PostgreSQL + pgvector · Redis · Docker · AWS
 
 ---
 
-## Projects
+## Featured work
 
-### [SafePay](https://github.com/Wcoder547/safepay) — Digital Wallet with ML Fraud Detection
+### [ResolveAI](https://github.com/Wcoder547/resolve-ai) — AI support & incident platform
 
-P2P payment platform — send and receive money with a fraud detection layer that blocks suspicious transactions in real time. The core differentiator is a Random Forest model (served via FastAPI) that scores every transaction; anything above 70% fraud probability is blocked before it settles.
+Multi-tenant SaaS for support teams: ingest company docs, answer with citations, and run multi-agent workflows with **human approval** before risky tools execute.
 
-Built on a React frontend, Node.js/Express REST API, PostgreSQL + Prisma ORM. Dockerized and deployed on AWS with a CI/CD pipeline.
+Next.js frontend, Express + Prisma API, FastAPI AI service (RAG, embeddings, supervisor agents), PostgreSQL + pgvector, Redis/BullMQ.
+
+`Next.js` `TypeScript` `Node.js` `FastAPI` `pgvector` `RAG` `LangGraph` `Redis`
+
+---
+
+### [SafePay](https://github.com/Wcoder547/safepay) — P2P wallet with ML fraud detection
+
+Send/receive money with a Random Forest model (FastAPI) that scores every transaction and blocks high-risk ones before settlement.
 
 `React` `Node.js` `PostgreSQL` `Prisma` `FastAPI` `scikit-learn` `Docker` `AWS`
 
 ---
 
-### [MERN Chat App](https://github.com/Wcoder547) — Real-Time Messaging
+### [MediLens](https://github.com/Wcoder547/MediLens) — Medication safety (FYP)
 
-Full-stack chat application with real-time bidirectional communication. Socket.io handles event emission and broadcasting on the backend; the React frontend reflects state instantly without polling. Supports private messaging, group rooms, JWT-authenticated sessions, and MongoDB-persisted message history.
+Android app: real-time YOLOv11 pill detection (~99% mAP), prescription OCR (Donut + Gemini NER), reminders. Built for Pakistan’s healthcare context.
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT`
-
----
-
-### [E-Commerce Platform](https://github.com/Wcoder547) — Full-Stack Store
-
-Production-ready store with a Redis caching layer on the REST API, full checkout flow (cart, orders, inventory, payment gateway), and an admin dashboard for analytics, product management, and order tracking. TypeScript end-to-end.
-
-`React` `Node.js` `Express` `MongoDB` `TypeScript` `Redis` `JWT`
+`Kotlin` `YOLOv11` `TensorFlow Lite` `OCR` `Android`
 
 ---
 
-### [SocialHub.Support](https://github.com/Wcoder547/socialhub.support) — Task-Based Coin Reward Platform
+### [TrueFeedback](https://github.com/Wcoder547/TrueFeedback) — Anonymous feedback + AI icebreakers
 
-Users earn coins by completing social media tasks (follow, like, share, subscribe) and submit proof for admin review. Admins manage campaigns, review proofs, publish LMS articles, and monitor the platform via a dedicated dashboard. Monetized via Google AdSense.
+Share a link, receive anonymous messages. AI suggests contextual openers so senders are not staring at a blank box.
 
-Built on Next.js App Router with MongoDB/Mongoose, NextAuth (Google OAuth), and Edge-compatible middleware for route protection.
-
-`Next.js` `TypeScript` `MongoDB` `Mongoose` `NextAuth` `Tailwind CSS`
+`Next.js` `TypeScript` `MongoDB` `NextAuth` `AI`
 
 ---
 
-### [MstryMessage](https://github.com/Wcoder547/Mstrymessage) — Anonymous Feedback Platform
+### [SocialHub.Support](https://github.com/Wcoder547/socialhub.support) — Task-based coin platform
 
-Sign up, get a unique shareable link, receive anonymous messages — no account required for senders. An AI endpoint generates contextual icebreakers so senders are never staring at a blank box. Edge middleware cleanly separates public anonymous routes from the protected dashboard.
+Users complete social campaigns for coins; admins review proofs and run campaigns. Next.js App Router + Google OAuth.
 
-`Next.js` `TypeScript` `MongoDB` `NextAuth` `Resend` `Vercel`
+`Next.js` `TypeScript` `MongoDB` `NextAuth` `Tailwind`
 
 ---
 
@@ -67,18 +66,19 @@ Sign up, get a unique shareable link, receive anonymous messages — no account 
 
 | Layer | Technologies |
 |-------|-------------|
-| Frontend | Next.js · React · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui |
-| Backend | Node.js · Express · NestJS · FastAPI · Socket.io |
-| Databases | MongoDB · PostgreSQL · Prisma · Supabase · Redis · Firebase |
-| AI / ML | LangGraph · LangChain · RAG · YOLOv11 · scikit-learn · Hugging Face |
-| DevOps | Docker · AWS · Linux · Vercel · Kubernetes · Terraform · Ansible · Jenkins |
+| Frontend | Next.js · React · TypeScript · Tailwind CSS · shadcn/ui |
+| Backend | Node.js · Express · NestJS · FastAPI |
+| Data | PostgreSQL · Prisma · pgvector · MongoDB · Redis |
+| AI | RAG · LangGraph · LangChain · embeddings · tool calling · human-in-the-loop · YOLOv11 · scikit-learn |
+| Infra | Docker · AWS · Linux · Vercel · GitHub Actions |
 
 ---
 
-## Work & Education
+## Experience
 
 | Period | Role | Organisation |
 |--------|------|-------------|
+| Jul 2026 – present | Full-Stack Engineer | Nexton IT |
 | 2024 | Full-Stack Intern | Kivro Solutions |
 | 2023 | Full-Stack Intern | DevelopersHub Corporation |
 | 2023 | Laravel Intern | Ultimabyte Software House |
@@ -87,22 +87,23 @@ Sign up, get a unique shareable link, receive anonymous messages — no account 
 
 ---
 
-## Other Repositories
+## Learning notes
+
+These are study repos, not products.
 
 | Repo | What it covers |
-|------|---------------|
-| [MediLens](https://github.com/Wcoder547/MediLens) | Android — YOLOv11 pill detection (99% mAP), prescription OCR via Donut + Gemini NER. Final Year Project. |
-| [devops-zero-to-hero](https://github.com/Wcoder547/devops-zero-to-hero) | Linux, Docker, Kubernetes, Ansible, Terraform, Jenkins — notes and hands-on configs. |
-| [Agentic-Ai](https://github.com/Wcoder547/Agentic-Ai) | 17 LangGraph notebooks — sequential/parallel/conditional workflows → RAG → human-in-the-loop → subgraphs. |
-| [NestJS](https://github.com/Wcoder547/NestJS) | Architecture, dependency injection, modules, pipes, validation, exception filters. |
-| [Generative-AI](https://github.com/Wcoder547/Generative-AI) | 13 LangChain modules from basic LLM calls to full RAG pipelines with vector stores. |
-| [DSA-JavaScript](https://github.com/Wcoder547/DSA-JavaScript) | Linked lists, trees (BST/AVL/B+), BFS/DFS, sorting — pure JS, no libraries. |
+|------|----------------|
+| [Agentic-Ai](https://github.com/Wcoder547/Agentic-Ai) | LangGraph: workflows, RAG, HITL, subgraphs, MCP |
+| [generative-ai-with-python](https://github.com/Wcoder547/generative-ai-with-python) | LangChain → RAG, vector stores, tool calling |
+| [MERN-CHAT-APP](https://github.com/Wcoder547/MERN-CHAT-APP) | Real-time chat: Socket.io, JWT, Docker, CI |
+| [NestJS](https://github.com/Wcoder547/NestJS) | Modules, DI, pipes, validation |
+| [DSA_WITH_JS](https://github.com/Wcoder547/DSA_WITH_JS) | Trees, graphs, sorting — pure JS |
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20work%20together-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akram-dev/)
 [![Email](https://img.shields.io/badge/malikwaseemshzad@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikwaseemshzad@gmail.com)
 
 </div>
